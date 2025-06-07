@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.so
+.Python
+env/
+venv/
+.env
+
+# Data
+data/*.csv
+data/*.csv
+data/*.csv
+*.db # For SQLite if used as fallback
+/data/*.zip
+/data/*.rar
+/data/*.7z
+/data/*.tar.gz
+
+# VS Code
+.vscode/
+
+# Operating System Files
+Thumbs.db # Windows
+
+
